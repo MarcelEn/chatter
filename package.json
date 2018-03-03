@@ -1,0 +1,9 @@
+{
+  "name": "chatter",
+  "version": "0.0.1",
+  "description": "This is an Electron and Node based Chat Client / Server ",
+  "main": "index.js",
+  "repository": "https://github.com/MarcelEn/chatter",
+  "author": "Marcel Engler",
+  "license": "MIT"
+}
